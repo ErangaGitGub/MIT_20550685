@@ -1,8 +1,8 @@
-Name 			- S.P.E.S.Nawarathna
-Registration Number	- 2020/MIT/068
-Index Number		- 20550685
-Project Title 		- Automation of Currency Exchange Process at the Bank of Ceylon Pay Office
-GitHub URL		- https://github.com/ErangaGitGub/MIT_20550685
+* Name 			- S.P.E.S.Nawarathna
+* Registration Number	- 2020/MIT/068
+* Index Number		- 20550685
+* Project Title 		- Automation of Currency Exchange Process at the Bank of Ceylon Pay Office
+* GitHub URL		- https://github.com/ErangaGitGub/MIT_20550685
 
 
 # Installation
